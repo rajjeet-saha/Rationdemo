@@ -1,0 +1,6 @@
+{
+  "name": "RationSaathi",
+  "description": "Public Distribution, Without the Runaround - PDS Entitlements, Portability & Safety Simulator for Migrant Households",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
