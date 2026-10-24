@@ -10,23 +10,24 @@
 
 ---
 
-## 📲 Direct App Download & Live Cloud Preview
+## 📲 Universal Access & Direct App Download (Any Device)
 
-Download and test **RationSaathi** directly on your device:
+Access **RationSaathi** from **any device** (Phone, Tablet, Desktop, or Incognito) without needing any login:
 
-* 📦 **Direct APK Download (Click to Install)**:  
-  👉 **[Download RationSaathi.apk (v1.0 • ~23 MB)](https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk)**  
-  *(Direct browser download with automatic `application/vnd.android.package-archive` MIME type)*
+* 🌐 **Public Live Website & 3D Interactive Showcase (Accessible on Any Device)**:  
+  👉 **[https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app](https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app)**  
+  *(Open this link from your phone, laptop, or any browser to view the Aceternity 3D scrollable website, live safety simulator, and one-click APK download)*
 
-* 🌐 **Web App & Interactive Showcase Portal**:  
+* 📦 **Direct APK Download Link (Any Device)**:  
+  👉 **[Download RationSaathi.apk (~23 MB)](https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk)**  
+  *(Directly downloads the compiled APK to your phone or computer)*
+
+* 🔗 **Public Shared URL (For Sharing with Others)**:  
   👉 **[https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app](https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app)**  
-  *(Civic overview portal with direct APK download button and installation guide)*
+  *(Note: To activate this public link for external visitors who are not logged into your Google account, click the **Share** button in the top-right toolbar of Google AI Studio)*
 
-* 🛠️ **Development App Download Mirror**:  
-  👉 **[https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk](https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk)**
-
-* ⚙️ **AI Studio Streaming Emulator**:  
-  Access the live, interactive Android emulator stream in the right-hand panel of your Google AI Studio workspace.
+* 📱 **Native AI Studio Download Menu**:  
+  In the top toolbar of Google AI Studio, click the **Settings (gear icon)** or **Export** button and choose **"Download APK"** or **"Export as ZIP"**.
 
 ---
 
