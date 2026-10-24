@@ -10,18 +10,23 @@
 
 ---
 
-## 📲 App Download & Live Cloud Preview
+## 📲 Direct App Download & Live Cloud Preview
 
-Experience and download **RationSaathi** directly:
+Download and test **RationSaathi** directly on your device:
 
-* 🌐 **Live Web Preview (Streaming Emulator)**:  
-  [https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app](https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app)
+* 📦 **Direct APK Download (Click to Install)**:  
+  👉 **[Download RationSaathi.apk (v1.0 • ~23 MB)](https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk)**  
+  *(Direct browser download with automatic `application/vnd.android.package-archive` MIME type)*
 
-* 🛠️ **Development App Instance**:  
-  [https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app](https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app)
+* 🌐 **Web App & Interactive Showcase Portal**:  
+  👉 **[https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app](https://ais-pre-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app)**  
+  *(Civic overview portal with direct APK download button and installation guide)*
 
-* 📦 **Download Android APK**:  
-  In the Google AI Studio project interface, open the **Settings (gear icon)** or the **Export** menu in the top-right toolbar and click **Download APK** (or run `gradle assembleDebug` to build `app-debug.apk` locally).
+* 🛠️ **Development App Download Mirror**:  
+  👉 **[https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk](https://ais-dev-h3bge5ixavvkbthbixhtxo-384071980207.asia-northeast1.run.app/download/RationSaathi.apk)**
+
+* ⚙️ **AI Studio Streaming Emulator**:  
+  Access the live, interactive Android emulator stream in the right-hand panel of your Google AI Studio workspace.
 
 ---
 
